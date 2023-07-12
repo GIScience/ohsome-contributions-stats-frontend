@@ -1,6 +1,6 @@
 # Ohsome Contribution Statistics frontend
 
-Dashboard for Statitics and other information about contribution done in OpenStreetMap using the ohsome-contributions-stats-service
+Dashboard for Statitics and other information about contribution done in OpenStreetMap using the [GIScience/ohsome-contributions-stats-service](https://github.com/GIScience/ohsome-contributions-stats-service)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.0.
 
